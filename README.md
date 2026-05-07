@@ -28,4 +28,4 @@
 ---
 
 ### Looking for a candidate? 
-**My CV - [CV_SamoilenkoSvyat.pdf]([https://github.com/66a955e9-bca9-4dc9-b041-74151bf47813](https://raw.githubusercontent.com/SamanuelAdmin/SamanuelAdmin/main/CV_SamoilenkoSvyat.pdf))
+**My CV - [CV_SamoilenkoSvyat.pdf](https://raw.githubusercontent.com/SamanuelAdmin/SamanuelAdmin/main/CV_SamoilenkoSvyat.pdf)**
