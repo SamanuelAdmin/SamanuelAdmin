@@ -22,10 +22,15 @@
 * **Backend Developer (Freelance)** | *2024 — now*
     * Designing architecture and implementing server logic.
     * Developing automatic services and parsing systems.
+* **System administrator, Germes Corp** | *2026*
+    * Linux & Windows Administration, managed and maintained Linux and Windows environments
+    * Configured basic MikroTik networking
+    * Handled hardware diagnostics, component-level repairs
+    * Preventive system maintenance
 * **Hackathons & Volunteering**
     * Active memeber of hackatons and non-commercial projects.
  
 ---
 
 ### Looking for a candidate? 
-**My CV - [CV_SamoilenkoSvyat.pdf](https://raw.githubusercontent.com/SamanuelAdmin/SamanuelAdmin/main/CV_SamoilenkoSvyat.pdf)**
+**My CV - [CV_SamoilenkoSvyat.pdf](https://raw.githubusercontent.com/SamanuelAdmin/SamanuelAdmin/main/CV.pdf)**
